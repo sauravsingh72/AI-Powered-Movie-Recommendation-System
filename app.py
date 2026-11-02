@@ -13,7 +13,7 @@ from urllib3.util.retry import Retry
 # =====================================
 
 st.set_page_config(
-    page_title="Movie Recommender System",
+    page_title="CinePick 5",
     page_icon="🎬",
     layout="wide"
 )
